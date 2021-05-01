@@ -1,0 +1,25 @@
+,Year,Month,Day,Time,Temperature,Relative Temperature,Wind Speed,Wind Gust,Relative Humidity,Dew Point,Pressure,Condition
+0,2021,02,02,00:00,25°C,26°C,80°4 Km/h,N/A,79%,21°C,1014.0mb," Few Clouds at 760m, Scattered Clouds at 3000m  "
+1,2021,02,02,01:00,25°C,25°C,Variable at 4 Km/h,N/A,74%,20°C,1014.0mb," Few Clouds at 700m, Broken Clouds at 3000m  "
+2,2021,02,02,02:00,25°C,25°C,Variable at 2 Km/h,N/A,74%,20°C,1013.0mb," Scattered Clouds at 700m, Broken Clouds at 3000m  "
+3,2021,02,02,03:00,25°C,25°C,Variable at 4 Km/h,N/A,74%,20°C,1013.0mb," Few Clouds at 700m, Broken Clouds at 3000m  "
+4,2021,02,02,04:00,25°C,25°C,200°4 Km/h,N/A,74%,20°C,1013.0mb," Few Clouds at 700m, Broken Clouds at 2400m  "
+5,2021,02,02,05:00,25°C,25°C,Variable at 2 Km/h,N/A,74%,20°C,1013.0mb," Few Clouds at 760m, Broken Clouds at 2700m  "
+6,2021,02,02,06:00,24°C,25°C,270°6 Km/h,N/A,78%,20°C,1013.0mb," Few Clouds at 760m, Broken Clouds at 2700m  "
+7,2021,02,02,07:00,24°C,25°C,310°9 Km/h,N/A,78%,20°C,1014.0mb," Few Clouds at 700m, Broken Clouds at 3000m  "
+8,2021,02,02,08:00,25°C,25°C,10°7 Km/h,N/A,74%,20°C,1015.0mb," Few Clouds at 760m, Broken Clouds at 3000m  "
+9,2021,02,02,09:00,27°C,29°C,270°6 Km/h,N/A,66%,20°C,1015.0mb," Few Clouds at 760m, Broken Clouds at 3000m  "
+10,2021,02,02,10:00,27°C,29°C,Variable at 7 Km/h,N/A,70%,21°C,1015.0mb," Few Clouds at 760m, Scattered Clouds at 9100m  "
+11,2021,02,02,11:00,28°C,30°C,Variable at 6 Km/h,N/A,66%,21°C,1014.0mb, Few Clouds at 760m  
+12,2021,02,02,12:00,28°C,30°C,310°13 Km/h,N/A,66%,21°C,1014.0mb, Few Clouds at 760m  
+13,2021,02,02,13:00,29°C,32°C,300°13 Km/h,N/A,66%,22°C,1013.0mb, Few Clouds at 760m  
+14,2021,02,02,14:00,28°C,30°C,270°13 Km/h,N/A,66%,21°C,1012.0mb," Scattered Clouds at 700m, Broken Clouds at 3000m  "
+15,2021,02,02,15:00,29°C,32°C,Variable at 6 Km/h,N/A,66%,22°C,1011.0mb," Scattered Clouds at 700m, Broken Clouds at 3000m  "
+16,2021,02,02,16:00,31°C,35°C,130°13 Km/h,N/A,59%,22°C,1011.0mb," Scattered Clouds at 700m, Broken Clouds at 3000m  "
+17,2021,02,02,17:00,30°C,33°C,130°15 Km/h,N/A,62%,22°C,1012.0mb, Scattered Clouds at 700m  
+18,2021,02,02,18:00,28°C,30°C,90°9 Km/h,N/A,62%,20°C,1013.0mb," Few Clouds at 760m, Broken Clouds at 9100m  "
+19,2021,02,02,19:00,28°C,30°C,90°13 Km/h,N/A,62%,20°C,1013.0mb, Few Clouds at 760m  
+20,2021,02,02,20:00,27°C,29°C,100°9 Km/h,N/A,66%,20°C,1013.0mb, Few Clouds at 760m  
+21,2021,02,02,21:00,26°C,27°C,120°11 Km/h,N/A,70%,20°C,1014.0mb, Few Clouds at 760m  
+22,2021,02,02,22:00,26°C,27°C,120°7 Km/h,N/A,70%,20°C,1014.0mb, Few Clouds at 760m  
+23,2021,02,02,23:00,25°C,26°C,110°7 Km/h,N/A,79%,21°C,1014.0mb, Few Clouds at 760m  
